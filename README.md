@@ -1,8 +1,8 @@
 ### Hi, I'm Moo-YY 👋
 
-**嵌入式软件 / 机器人电控** | 南昌大学电子信息工程
+**嵌入式软件 / RoboMaster** | 南昌大学Passion战队电控
 
-> 聚焦 STM32 实时控制、多传感器融合与跨机型嵌入式架构设计。
+> 聚焦 STM32 实时控制、多传感器融合与跨机型嵌入式架构设计
 
 #### 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -12,14 +12,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 #### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moo-YY&show_icons=true&theme=radical&hide_border=true" alt="Moo-YY's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moo-YY&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
-</p>
+
 
 #### 🚀 Featured Projects
-*   **[NCU-Passion/EC/rm-common](https://github.com/NCU-Passion)**：跨机型嵌入式基础软件层（五层架构，总线抽象隔离硬件）。
-*   **[NCU-Passion/EC/Heavy](https://github.com/NCU-Passion)**：RoboMaster 重型机器人电控系统（FreeRTOS 实时控制、bxCAN 双路队列防丢帧）。
 
 <!--
 **Moo-YY/Moo-YY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
